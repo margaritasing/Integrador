@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3293b0fc-eba1-43b0-ab8d-d56b08cc67a9" name="Default Changelist" comment="TAREA">
+      <change afterPath="$PROJECT_DIR$/../Animales/Animales.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DNRPA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/AutoElectrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Automotor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Colectivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/MotoElectrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Patente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Registro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Utilitario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpleadosAbstractos-master/EmpleadosAbstractos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenOnLine/ExamenOnLine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facturador-master/Facturador.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facturador/Facturador.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Financiera/Financiera.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gato/Gato.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herencia-master/Herencia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herencia2-master/Herencia2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Herencia4_Financiera-master/Herencia4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaConGit-master/JavaConGit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Madedera/Madedera.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Madedera/src/com/company/myapp/CLiente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Madedera/src/com/company/myapp/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Madedera/src/com/company/myapp/Modelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maderera/Maderera.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/CLienteParticular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/ClienteCorporativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Cortes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Maderera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Modelos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Registro/Registro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Registro/src/com/company/myapp/TipoVehiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperMercado/SuperMercado.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperMercado/src/com/company/myapp/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperMercado/src/com/company/myapp/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperMercado/src/com/company/myapp/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VectorJava2/VectorJava2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VehiculosAutomotor/VehiculosAutomotor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zoo/Zoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../listasNombres/listasNombres.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1oJG6ESk3Liqv1GCAozsPquwETX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company.myapp" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.company.myapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.myapp.Registro" />
+      <module name="DNRPA" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3293b0fc-eba1-43b0-ab8d-d56b08cc67a9" name="Default Changelist" comment="" />
+      <created>1612997120023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612997120023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TAREA" />
+    <option name="LAST_COMMIT_MESSAGE" value="TAREA" />
+  </component>
+</project>
