@@ -3,15 +3,10 @@ package com.company.myapp;
 import java.time.LocalDate;
 import java.util.List;
 
-public class Utilitario extends Automotor {
+public class Utilitario extends Automotor implements Patente {
 
 
-    public Utilitario(String clave, LocalDate fechaAlta) {
-        super(clave, fechaAlta);
+    public Utilitario(String tipo, String modelo, LocalDate fechaDeAlta, Uso usos) {
+        super(tipo, modelo, fechaDeAlta, usos);
     }
-
-    public Utilitario(String clave, LocalDate fechaAlta, String marca, String modelo, String color, String uso) {
-        super(clave, fechaAlta, marca, modelo, color, uso);
-    }
-
 }

@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3293b0fc-eba1-43b0-ab8d-d56b08cc67a9" name="Default Changelist" comment="TAREA">
+    <list default="true" id="0615a9da-14ab-4c7a-95da-689853f04d32" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Animales/Animales.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DNRPA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/AutoElectrico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Automotor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Camion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Colectivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/MotoElectrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Patente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Registro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Utilitario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Oportunidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Servicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Utilitaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Autorizado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/DatosIncorrectosException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Propietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Uso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Utilitaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjerciciosHash/src/com/company/myapp/Persona.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EmpleadosAbstractos-master/EmpleadosAbstractos.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExamenOnLine/ExamenOnLine.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Facturador-master/Facturador.iml" afterDir="false" />
@@ -43,16 +39,69 @@
       <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Cortes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Maderera.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Modelos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaDeSql/src/com/company/myapp/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaDeSql/src/com/company/myapp/ConexionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaDeSql/src/com/company/myapp/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticaDeSql/src/com/company/myapp/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refugio/src/com/company/myapp/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refugio/src/com/company/myapp/ConexionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refugio/src/com/company/myapp/Especie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refugio/src/com/company/myapp/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refugio/src/com/company/myapp/Refugio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Registro/Registro.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Registro/src/com/company/myapp/TipoVehiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistemaInterfaz/src/com/company/myapp/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistemaInterfaz/src/com/company/myapp/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistemaInterfaz/src/com/company/myapp/Presupuesto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistemaInterfaz/src/com/company/myapp/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SistemaInterfaz/src/com/company/myapp/Servicio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SuperMercado/SuperMercado.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SuperMercado/src/com/company/myapp/Cliente.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SuperMercado/src/com/company/myapp/Item.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SuperMercado/src/com/company/myapp/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaRefugio/src/com/company/myapp/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaRefugio/src/com/company/myapp/ConexionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaRefugio/src/com/company/myapp/Especie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaRefugio/src/com/company/myapp/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TareaRefugio/src/com/company/myapp/Refugio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tareas/Tareas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tareas/src/com/company/myapp/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tareas/src/com/company/myapp/ConexionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tareas/src/com/company/myapp/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tareas/src/com/company/myapp/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TunoFarmacia/TunoFarmacia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TunoFarmacia/src/com/company/myapp/Persona.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VectorJava2/VectorJava2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../VehiculosAutomotor/VehiculosAutomotor.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Zoo/Zoo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../listasNombres/listasNombres.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newSql/src/com/company/myapp/ConexionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newSql/src/com/company/myapp/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newSql/src/com/company/myapp/Sector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animales/src/com/company/myapp/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animales/src/com/company/myapp/Mamiferos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animales/src/com/company/myapp/Refugio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animales/src/com/company/myapp/Reptil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Auto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Automotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Automotor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Patente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Patente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Persona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/AutoElectrico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/AutoElectrico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Automotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Automotor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Camion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Camion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Colectivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Colectivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/MotoElectrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/MotoElectrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Patente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Patente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Registro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Registro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Utilitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Utilitario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facturador/src/com/company/myapp/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Financiera/src/com/company/myapp/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Herencia" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,90 +111,33 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1oJG6ESk3Liqv1GCAozsPquwETX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1qclVah77qPTkKoVcuJz2pc5FNp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.company.myapp" />
-    </key>
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.company.myapp" />
-    </key>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.myapp.Registro" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.myapp.Main" />
       <module name="DNRPA" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.myapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,11 +151,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3293b0fc-eba1-43b0-ab8d-d56b08cc67a9" name="Default Changelist" comment="" />
-      <created>1612997120023</created>
+      <changelist id="0615a9da-14ab-4c7a-95da-689853f04d32" name="Default Changelist" comment="" />
+      <created>1617386783683</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612997120023</updated>
+      <updated>1617386783683</updated>
     </task>
     <servers />
   </component>
@@ -178,9 +170,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="TAREA" />
-    <option name="LAST_COMMIT_MESSAGE" value="TAREA" />
   </component>
 </project>

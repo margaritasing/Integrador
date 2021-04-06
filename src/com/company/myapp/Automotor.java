@@ -5,44 +5,47 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-public abstract class Automotor extends Patente{
-    private String marca;
+public class Automotor{
+
+    private String tipo;
     private String modelo;
-    private String color;
-    private String uso;
-    private List<Patente> patentes;
+    private LocalDate fechaDeAlta;
+    private Uso usos;
+    private List<Propietario> propietarios = new ArrayList<>();
+    private List<Autorizado> autorizados = new ArrayList<>();
 
 
-    public Automotor(String clave, LocalDate fechaAlta) {
-        super(clave, fechaAlta);
 
-    }
-
-    public Automotor(String clave, LocalDate fechaAlta, String marca, String modelo, String color, String uso) {
-        super(clave, fechaAlta);
-        this.marca = marca;
+    public Automotor(String tipo, String modelo, LocalDate fechaDeAlta, Uso usos) {
+        this.tipo = tipo;
         this.modelo = modelo;
-        this.color = color;
-        this.uso = uso;
-        this.patentes = new ArrayList<>();
+        this.fechaDeAlta = fechaDeAlta;
+        this.usos = usos;
+
+    }
+
+    public Automotor(List<Propietario> propietarios, List<Autorizado> autorizados) {
+        this.propietarios = propietarios;
+        this.autorizados = autorizados;
+
+    }
+
+    public Automotor() {
 
     }
 
 
 
-    public void setPatentes(List<Patente> patentes) {
-        this.patentes = patentes;
+    public void agregarPropietario(String nombre, String dni, String direccion, String tipoDeVehiculos) {
+        propietarios.add(new Propietario(nombre, dni, direccion,tipoDeVehiculos));
     }
 
-
-
-
-    public String getMarca() {
-        return marca;
+    public String getTipo() {
+        return tipo;
     }
 
-    public void setMarca(String marca) {
-        this.marca = marca;
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
     }
 
     public String getModelo() {
@@ -53,29 +56,25 @@ public abstract class Automotor extends Patente{
         this.modelo = modelo;
     }
 
-    public String getColor() {
-        return color;
+
+
+    public LocalDate getFechaDeAlta() {
+        return fechaDeAlta;
     }
 
-    public void setColor(String color) {
-        this.color = color;
+    public void setFechaDeAlta(LocalDate fechaDeAlta) {
+        this.fechaDeAlta = fechaDeAlta;
     }
 
-    public String getUso() {
-        return uso;
-    }
-
-    public void setUso(String uso) {
-        this.uso = uso;
-    }
 
     @Override
     public String toString() {
         return "Automotor{" +
-                "marca='" + marca + '\'' +
+                "tipo='" + tipo + '\'' +
                 ", modelo='" + modelo + '\'' +
-                ", color='" + color + '\'' +
-                ", uso='" + uso + '\'' +
+                ", fechaDeAlta=" + fechaDeAlta +
+                ", usos=" + usos +
+
                 '}';
     }
 

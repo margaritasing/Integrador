@@ -1,37 +1,26 @@
 package com.company.myapp;
 
-import java.time.LocalDate;
 
-public class Patente {
-    private String clave;
-    private LocalDate fechaAlta;
+import java.util.Locale;
+import java.util.Random;
 
-    public Patente(String clave, LocalDate fechaAlta) {
-        this.clave = clave;
-        this.fechaAlta = fechaAlta;
+public interface Patente {
+
+   default void agregarPatente() {
+       char[] chars = "0123456789abcdefghijklmnopqrstuvwxyz".toCharArray();
+       int charsLength = chars.length;
+       Random random = new Random();
+       StringBuilder buffer = new StringBuilder();
+       for (int i = 0; i < 6; i++) {
+           buffer.append(chars[random.nextInt(charsLength)]);
+       }
+       System.out.println("La patente es :  " + buffer.toString().toUpperCase(Locale.ROOT));
+
+   }
+
+
+
+
+
+
     }
-
-    public String getClave() {
-        return clave;
-    }
-
-    public void setClave(String clave) {
-        this.clave = clave;
-    }
-
-    public LocalDate getFechaAlta() {
-        return fechaAlta;
-    }
-
-    public void setFechaAlta(LocalDate fechaAlta) {
-        this.fechaAlta = fechaAlta;
-    }
-
-    @Override
-    public String toString() {
-        return "Patente{" +
-                "clave='" + clave + '\'' +
-                ", fechaAlta=" + fechaAlta +
-                '}';
-    }
-}

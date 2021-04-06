@@ -1,15 +1,12 @@
 package com.company.myapp;
 
 import java.time.LocalDate;
+import java.util.List;
 
-public class AutoElectrico extends Automotor {
+public class AutoElectrico extends Automotor implements Patente{
 
 
-    public AutoElectrico(String clave, LocalDate fechaAlta) {
-        super(clave, fechaAlta);
-    }
-
-    public AutoElectrico(String clave, LocalDate fechaAlta, String marca, String modelo, String color, String uso) {
-        super(clave, fechaAlta, marca, modelo, color, uso);
+    public AutoElectrico(String tipo, String modelo, LocalDate fechaDeAlta, Uso usos) {
+        super(tipo, modelo, fechaDeAlta, usos);
     }
 }

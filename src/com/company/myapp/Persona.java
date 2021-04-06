@@ -1,35 +1,34 @@
 package com.company.myapp;
 
 public class Persona {
-    private String dueños;
-    private String autorizados;
+    private String nombre;
     private String dni;
     private String direccion;
+    private String tipoDeVehiculo;
 
-    public Persona(String dueños, String autorizados, String dni, String direccion) {
-        this.dueños = dueños;
-        this.autorizados = autorizados;
+    public Persona(String nombre, String dni, String direccion, String tipoDeVehiculo) {
+        this.nombre = nombre;
         this.dni = dni;
         this.direccion = direccion;
+        this.tipoDeVehiculo = tipoDeVehiculo;
     }
 
 
 
-
-    public String getDueños() {
-        return dueños;
+    public String getTipoDeVehiculo() {
+        return tipoDeVehiculo;
     }
 
-    public void setDueños(String dueños) {
-        this.dueños = dueños;
+    public void setTipoDeVehiculo(String tipoDeVehiculo) {
+        this.tipoDeVehiculo = tipoDeVehiculo;
     }
 
-    public String getAutorizados() {
-        return autorizados;
+    public String getNombre() {
+        return nombre;
     }
 
-    public void setAutorizados(String autorizados) {
-        this.autorizados = autorizados;
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 
     public String getDni() {
@@ -48,11 +47,11 @@ public class Persona {
         this.direccion = direccion;
     }
 
+
     @Override
     public String toString() {
         return "Persona{" +
-                "propietarios='" + dueños + '\'' +
-                ", autorizados='" + autorizados + '\'' +
+                "nombre='" + nombre + '\'' +
                 ", dni='" + dni + '\'' +
                 ", direccion='" + direccion + '\'' +
                 '}';
