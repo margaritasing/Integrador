@@ -13,6 +13,10 @@ public class Persona {
         this.tipoDeVehiculo = tipoDeVehiculo;
     }
 
+    public Persona(String nombre) {
+        this.nombre= nombre;
+
+    }
 
 
     public String getTipoDeVehiculo() {

@@ -11,12 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Servicio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Utilitaria.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CRMVentas/src/com/company/myapp/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Autorizado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/DatosIncorrectosException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Propietario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Uso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/myapp/Utilitaria.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EjerciciosHash/src/com/company/myapp/Persona.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EmpleadosAbstractos-master/EmpleadosAbstractos.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExamenOnLine/ExamenOnLine.iml" afterDir="false" />
@@ -82,23 +76,17 @@
       <change beforePath="$PROJECT_DIR$/../Animales/src/com/company/myapp/Mamiferos.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Animales/src/com/company/myapp/Refugio.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Animales/src/com/company/myapp/Reptil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Auto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Automotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Automotor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Patente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Patente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Autorizado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Autorizado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Persona.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/AutoElectrico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/AutoElectrico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Automotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Automotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Camion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Camion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Colectivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Colectivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Moto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/MotoElectrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/MotoElectrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Patente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Patente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Autorizado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Autorizado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Registro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Registro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Utilitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Utilitario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Propietario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Propietario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Facturador/src/com/company/myapp/Item.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Financiera/src/com/company/myapp/Cliente.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Herencia" beforeDir="false" />
