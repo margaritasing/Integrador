@@ -2,10 +2,8 @@ package com.company.myapp;
 
 
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
-import static java.time.temporal.ChronoUnit.DAYS;
 
 public class Automotor implements Patente{
 
@@ -18,6 +16,9 @@ public class Automotor implements Patente{
 
 
 
+
+
+
     public Automotor(String tipo, String modelo, LocalDate fechaDeAlta, Uso usos) {
         this.tipo = tipo;
         this.modelo = modelo;
@@ -26,27 +27,41 @@ public class Automotor implements Patente{
 
     }
 
+    public Automotor() {
 
+    }
 
 
     public void agregarPropietario(String nombre, String dni, String direccion, String tipoDeVehiculos) {
         propietarios.add(new Propietario(nombre, dni, direccion,tipoDeVehiculos));
     }
 
+    public void cambiarPropietario(){
+       propietarios.set(0,new Propietario("Libia"));
+
+
+    }
+
+
+
+
+
     public void agregarAutorizados(String nombre) {
       autorizados.add(new Autorizado(nombre));
     }
 
 
-    public void reemplazarPropietario(int indice, Propietario propietario){
-        LocalDate fechaDeAlta = LocalDate.of(2015,12,25);
-        LocalDate fechaHoy = LocalDate.now();
-        long dias = DAYS.between(fechaDeAlta, fechaHoy);
-        if (dias < 365)
-            System.out.println("No se puede cambiar el propietario");
-        else
-        propietarios.set(indice, propietario);
+
+    public void setPropietarios() {
+        this.propietarios=propietarios;
     }
+
+    public void listarPropietarios(){
+        for (Propietario p : propietarios)
+            System.out.println(p);
+    }
+
+
 
     public List<Propietario> getPropietarios() {
         return propietarios;
@@ -56,10 +71,6 @@ public class Automotor implements Patente{
         return autorizados;
     }
 
-
-    public void setPropietarios(List<Propietario> propietarios) {
-        this.propietarios = propietarios;
-    }
 
     public void setAutorizados(List<Autorizado> autorizados) {
         this.autorizados = autorizados;
@@ -92,6 +103,10 @@ public class Automotor implements Patente{
     }
 
 
+
+
+
+
     @Override
     public String toString() {
         return "Automotor{" +
@@ -104,12 +119,13 @@ public class Automotor implements Patente{
     }
 
 
-    public List<Propietario> setPropietarios() {
-
-
-        return null;
-    }
 }
+
+
+
+
+
+
 
 
 

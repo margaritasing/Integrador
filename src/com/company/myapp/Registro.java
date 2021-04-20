@@ -16,6 +16,8 @@ public class Registro implements Patente {
    }
 
 
+
+
     public Registro(int i) {
         this.seccion = seccion;
     }

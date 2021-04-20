@@ -1,16 +1,24 @@
 package com.company.myapp;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Persona {
-    private String nombre;
+   protected String nombre;
     private String dni;
     private String direccion;
     private String tipoDeVehiculo;
+    private List<Propietario> propietarios = new ArrayList<>();
 
     public Persona(String nombre, String dni, String direccion, String tipoDeVehiculo) {
         this.nombre = nombre;
         this.dni = dni;
         this.direccion = direccion;
         this.tipoDeVehiculo = tipoDeVehiculo;
+    }
+
+    public Persona() {
+        this.propietarios = new ArrayList<>();
     }
 
     public Persona(String nombre) {
@@ -60,4 +68,9 @@ public class Persona {
                 ", direccion='" + direccion + '\'' +
                 '}';
     }
+
+
+   /* public void remove(int cambiar) {
+
+    }*/
 }

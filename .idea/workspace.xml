@@ -21,6 +21,13 @@
       <change afterPath="$PROJECT_DIR$/../Herencia-master/Herencia.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Herencia2-master/Herencia2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Herencia4_Financiera-master/Herencia4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelAladin/HotelAladin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelAladin/src/com/company/myapp/ConexionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelAladin/src/com/company/myapp/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelAladin/src/com/company/myapp/Habitacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelAladin/src/com/company/myapp/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelAladin/src/com/company/myapp/Huesped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HotelAladin/src/com/company/myapp/Reserva.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaConGit-master/JavaConGit.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Madedera/Madedera.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Madedera/src/com/company/myapp/CLiente.java" afterDir="false" />
@@ -33,10 +40,13 @@
       <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Cortes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Maderera.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Maderera/src/com/company/myapp/Modelos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Panaderia/src/com/company/myapp/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Panaderia/src/com/company/myapp/Promo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticaDeSql/src/com/company/myapp/Casa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticaDeSql/src/com/company/myapp/ConexionDB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticaDeSql/src/com/company/myapp/Estado.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PracticaDeSql/src/com/company/myapp/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProbandoFechas/ProbandoFechas.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Refugio/src/com/company/myapp/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Refugio/src/com/company/myapp/ConexionDB.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Refugio/src/com/company/myapp/Especie.java" afterDir="false" />
@@ -78,15 +88,17 @@
       <change beforePath="$PROJECT_DIR$/../Animales/src/com/company/myapp/Reptil.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Automotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Automotor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Autorizado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Autorizado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Main$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/MotoElectrica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/MotoElectrica.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Persona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Propietario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Propietario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Registro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DNRPA/com/company/myapp/Registro.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Automotor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Automotor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Autorizado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Autorizado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/MotoElectrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/MotoElectrica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Persona.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Propietario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Propietario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/myapp/Registro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/myapp/Registro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Facturador/src/com/company/myapp/Item.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Financiera/src/com/company/myapp/Cliente.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Herencia" beforeDir="false" />
@@ -105,6 +117,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="100" />
+    </hideBySeverity>
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1qclVah77qPTkKoVcuJz2pc5FNp" />
   <component name="ProjectViewState">
