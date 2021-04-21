@@ -99,6 +99,7 @@ public class Main {
 
             for (Automotor a : automotores) {
                 System.out.println(a);
+
                     if (a.getTipo().equals("Camion"))
                         System.out.println(a.getTipo());
                 List<Propietario> propietarios = a.getPropietarios();
